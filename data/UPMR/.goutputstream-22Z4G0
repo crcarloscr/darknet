@@ -1,0 +1,5 @@
+classes= 3
+train  = data/trainUPMR.txt
+valid  = data/testUPMR.txt
+names = data/UPMR.names
+backup = backup/
